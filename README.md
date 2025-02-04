@@ -5,7 +5,6 @@ A list of tech books I've read, along with links and my thoughts.
 ## Categories
 - [Programming](#programming)
 - [Software Testing](#software-testing)
-- [Leadership & Productivity](#leadership--productivity)
 
 ---
 
