@@ -1,4 +1,4 @@
-# Tech Books I've Read 📚
+# Tech Books 📚
 
 A list of tech books I've read and planning to read, along with links and my thoughts.
 
