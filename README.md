@@ -1,6 +1,6 @@
 # Tech Books I've Read 📚
 
-A list of tech books I've read, along with links and my thoughts.
+A list of tech books I've read and planning to read, along with links and my thoughts.
 
 ## Categories
 - [Programming](#programming)
