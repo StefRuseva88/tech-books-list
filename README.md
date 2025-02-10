@@ -1,4 +1,5 @@
 # Tech Books 📚
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of tech books I've read and planning to read, along with links and my thoughts.
 
