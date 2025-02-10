@@ -35,6 +35,9 @@ A list of tech books I've read and planning to read, along with links and my tho
 ## Software Testing 
 ✅ **[Software Testing: A Craftsman’s Approach, Fourth Edition](https://www.amazon.com/Software-Testing-Craftsmans-Approach-Fourth/dp/1466560681/)** – Paul C. Jorgensen  
    *Notes:* Provides a deep understanding of software testing principles with a focus on mathematical and engineering perspectives.
+   
+**[Learn Manual Software Testing Through Interview Questions](https://www.amazon.com/Learn-Manual-Software-Testing-Questions/dp/195442959X/)** – Jimmy Mathew  
+   *Notes:* A practical guide to mastering manual software testing concepts, structured around real interview questions to help candidates prepare for testing roles.  
 
 ### Testing Series by Gerardus Blokdyk 
 **[System Integration Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/System-Integration-Testing-Complete-Guide/dp/1867416422/)**   
