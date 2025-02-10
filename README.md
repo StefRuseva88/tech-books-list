@@ -33,6 +33,11 @@ A list of tech books I've read and planning to read, along with links and my tho
 
 1. **[Software Testing: A Craftsman’s Approach, Fourth Edition](https://www.amazon.com/Software-Testing-Craftsmans-Approach-Fourth/dp/1466560681/)** – Paul C. Jorgensen  
    *Notes:* Provides a deep understanding of software testing principles with a focus on mathematical and engineering perspectives.
+   
+3. **[Modern Game Testing](https://www.amazon.com/Modern-Game-Testing-Nikolina-Finska/dp/180323259X/)** – Nikolina Finska  
+   *Notes:* A practical guide to game testing, covering strategies, tools, and methodologies for ensuring high-quality game releases.
+
+---
 
 ---
 ## Contributing
