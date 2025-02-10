@@ -34,3 +34,5 @@ A list of tech books I've read and planning to read, along with links and my tho
    *Notes:* Provides a deep understanding of software testing principles with a focus on mathematical and engineering perspectives.
 
 ---
+## Contributing
+Please, feel free to suggest books that you think I should read next!
