@@ -53,6 +53,7 @@ A list of tech books I've read and planning to read, along with links and my tho
 7. **[Usability Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Usability-Testing-Complete-Guide/dp/1867475975/)** – Gerardus Blokdyk  
    *Notes:* A deep dive into usability testing strategies to improve user experience and accessibility.
 
+### Game Testing
 8. **[Modern Game Testing](https://www.amazon.com/Modern-Game-Testing-Nikolina-Finska/dp/180323259X/)** – Nikolina Finska  
    *Notes:* A practical guide to game testing, covering strategies, tools, and methodologies for ensuring high-quality game releases.
    
