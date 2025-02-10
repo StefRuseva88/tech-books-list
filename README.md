@@ -22,13 +22,12 @@ A list of tech books I've read and planning to read, along with links and my tho
 4. **[Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868/)**  
    *Notes:* Explains Agile principles and practices, including their original intent and how to apply them effectively.
 
-5. **[Fundamentals of Computer Programming with C#](https://csharp-book.softuni.bg/)** – Svetlin Nakov & Team  
+### Software University 
+1. **[Fundamentals of Computer Programming with C#](https://csharp-book.softuni.bg/)** – Svetlin Nakov & Team  
    *Notes:* A comprehensive guide to C# and fundamental programming concepts, great for beginners and intermediate developers.
 
 ---
    
----
-
 ## Software Testing
 
 1. **[Software Testing: A Craftsman’s Approach, Fourth Edition](https://www.amazon.com/Software-Testing-Craftsmans-Approach-Fourth/dp/1466560681/)** – Paul C. Jorgensen  
