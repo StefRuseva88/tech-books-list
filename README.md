@@ -6,6 +6,7 @@ A list of tech books I've read and planning to read, along with links and my tho
 ## Categories
 - [Programming](#programming)
 - [Software Testing](#software-testing)
+- [Software Architecture](#software-architecture)
 
 ---
 
@@ -39,6 +40,11 @@ A list of tech books I've read and planning to read, along with links and my tho
 
 ---
 
+## Software Architecture
+1. **[97 Things Every Software Architect Should Know](https://www.oreilly.com/library/view/97-things-every/9780596522698/)** – Richard Monson-Haefel (Editor)  
+   *Notes:* A collection of valuable insights from experienced software architects on designing scalable and maintainable systems.
+
 ---
+
 ## Contributing
 Please, feel free to suggest books that you think I should read next!
