@@ -12,10 +12,9 @@ A list of tech books I've read and planning to read, along with links and my tho
 
 ## Programming
 ### Clean Code Series by Robert C. Martin  
-1. **[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)**  
+**[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)**  
    *Notes:* Covers best practices for writing clean, maintainable, and efficient code. A must-read for every developer.
-
-2. **[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/)**  
+**[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/)**  
    *Notes:* Focuses on the mindset and discipline required to be a professional software developer.
 
 3. **[Clean Architecture: A Craftsman’s Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/)**  
