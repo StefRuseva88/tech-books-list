@@ -61,6 +61,10 @@ A list of tech books I've read and planning to read, along with links and my tho
 
 **[Test Automation Engineering Handbook](https://www.amazon.com/Test-Automation-Engineering-Handbook-Sambamurthy/dp/183898173X/)** – Manikandan Sambamurthy  
    *Notes:* A detailed handbook for becoming proficient in test automation engineering, focusing on strategies, methodologies, and practical techniques.
+
+**[Test Automation Fundamentals: A Study Guide for the Certified Test Automation Engineer Exam - Advanced Level Specialist - ISTQB](https://www.amazon.com/Test-Automation-Fundamentals-Engineer-Specialist/dp/1947487684/)** – Richard Seidi, Manfred Baumgartner, Stefan Gwihs, Marc-Florian Wendland, Thomas Steirer, Julian Hartner  
+   *Notes:* A study guide tailored for those preparing for the ISTQB Advanced Level Test Automation Engineer exam, focusing on key concepts, methodologies, and practices in automation testing.
+   
    
 ### Test Design 
 **[Software Test Design](https://www.amazon.com/Software-Test-Design-Simon-Amey/dp/0367463457/)** – Simon Amey  
