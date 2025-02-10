@@ -58,6 +58,7 @@ A list of tech books I've read and planning to read, along with links and my tho
 ### Test Design 
 **[Software Test Design](https://www.amazon.com/Software-Test-Design-Simon-Amey/dp/0367463457/)** – Simon Amey  
    *Notes:* Focuses on the methodologies and strategies for designing effective and efficient software tests.
+   
 **[Software Testing Strategies: A Testing Guide for the 2020s](https://www.amazon.com/Software-Testing-Strategies-Testing-2020s/dp/194748729X/)** – Michael Larsen, Matthew Heusser  
    *Notes:* A modern approach to software testing strategies, focusing on automation, Agile practices, and the changing role of testers in the 2020s.
 
