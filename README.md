@@ -54,6 +54,10 @@ A list of tech books I've read and planning to read, along with links and my tho
 **[Usability Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Usability-Testing-Complete-Guide/dp/1867475975/)**
    *Notes:* A deep dive into usability testing strategies to improve user experience and accessibility.
 
+### API Testing
+**[API Testing and Development with Postman](https://www.amazon.com/API-Testing-Development-Postman-effectively/dp/1800569205/)** – Dave Westerveld  
+   *Notes:* Covers API testing fundamentals, request chaining, automation, and CI/CD integration using Postman.
+
 ### Performance Testing
 **[Master Apache JMeter: From Load Testing to DevOps](https://www.amazon.com/Master-Apache-JMeter-Testing-DevOps/dp/1838828799/)** – Philippe Mouawad, Antonio Gomes Rodrigues  
    *Notes:* A practical guide to performance testing using Apache JMeter, covering test planning, scripting, analysis, and DevOps integration.
