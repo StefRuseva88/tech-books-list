@@ -59,6 +59,9 @@ A list of tech books I've read and planning to read, along with links and my tho
 **[Ultimate Selenium WebDriver for Test Automation](https://www.amazon.com/Ultimate-Selenium-WebDriver-Automation-Beginners/dp/1952271310/)** – Robin Gupta  
    *Notes:* A comprehensive guide to mastering Selenium WebDriver for automating web applications, covering essential tools and advanced techniques.
 
+**[Test Automation Engineering Handbook](https://www.amazon.com/Test-Automation-Engineering-Handbook-Sambamurthy/dp/183898173X/)** – Manikandan Sambamurthy  
+   *Notes:* A detailed handbook for becoming proficient in test automation engineering, focusing on strategies, methodologies, and practical techniques.
+   
 ### Test Design 
 **[Software Test Design](https://www.amazon.com/Software-Test-Design-Simon-Amey/dp/0367463457/)** – Simon Amey  
    *Notes:* Focuses on the methodologies and strategies for designing effective and efficient software tests.
