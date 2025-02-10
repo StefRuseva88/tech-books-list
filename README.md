@@ -37,27 +37,21 @@ A list of tech books I've read and planning to read, along with links and my tho
 
 ### Testing Series by Gerardus Blokdyk 
 **[Exploratory Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Exploratory-Testing-Complete-Guide/dp/1867465768/)**
-
    *Notes:* Covers exploratory testing techniques and how to apply them effectively in agile environments.
    
 **[System Integration Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/System-Integration-Testing-Complete-Guide/dp/1867416422/)**
-
    *Notes:* A structured approach to system integration testing, covering best practices, risk assessment, and implementation strategies.
 
 **[Integration Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Integration-Testing-Complete-Guide/dp/1867412575/)**
-
    *Notes:* A practical guide on integration testing, focusing on verifying interactions between software components.
 
 **[System Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/System-Testing-Complete-Guide/dp/1867486777/)**
-
    *Notes:* Discusses system-wide testing approaches, test design, and risk-based testing techniques.
 
 **[Regression Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Regression-Testing-Complete-Guide/dp/1867473441/)**  
-
    *Notes:* Covers best practices in regression testing to ensure software stability after changes.
 
 **[Usability Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Usability-Testing-Complete-Guide/dp/1867475975/)**
-
    *Notes:* A deep dive into usability testing strategies to improve user experience and accessibility.
 
 ### API Testing
