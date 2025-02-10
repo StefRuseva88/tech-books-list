@@ -67,10 +67,10 @@ A list of tech books I've read and planning to read, along with links and my tho
 ---
 
 ## Cybersecurity
-1. **[Penetration Testing Guide 1](https://www.amazon.com/Penetration-Testing-Guide-Devi-Prasad/dp/B08XYZABC1/)** – Devi Prasad  
+**[Penetration Testing Guide 1](https://www.amazon.com/Penetration-Testing-Guide-Devi-Prasad/dp/B08XYZABC1/)** – Devi Prasad  
    *Notes:* Covers fundamental concepts and techniques for penetration testing, including network security assessment.
 
-2. **[Penetration Testing Guide 2](https://www.amazon.com/Penetration-Testing-Guide-Devi-Prasad/dp/B08XYZABC2/)** – Devi Prasad  
+**[Penetration Testing Guide 2](https://www.amazon.com/Penetration-Testing-Guide-Devi-Prasad/dp/B08XYZABC2/)** – Devi Prasad  
    *Notes:* A more advanced look into penetration testing, focusing on real-world case studies and exploit development.
 
 ---
