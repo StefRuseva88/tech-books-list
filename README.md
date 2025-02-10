@@ -21,5 +21,12 @@ A list of tech books I've read and planning to read, along with links and my tho
 
 4. **[Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868/)**  
    *Notes:* Explains Agile principles and practices, including their original intent and how to apply them effectively.
+   
+---
 
 ## Software Testing
+
+1. **[Software Testing: A Craftsman’s Approach, Fourth Edition](https://www.amazon.com/Software-Testing-Craftsmans-Approach-Fourth/dp/1466560681/)** – Paul C. Jorgensen  
+   *Notes:* Provides a deep understanding of software testing principles with a focus on mathematical and engineering perspectives.
+
+---
