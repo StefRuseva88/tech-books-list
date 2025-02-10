@@ -39,6 +39,9 @@ A list of tech books I've read and planning to read, along with links and my tho
 **[Learn Manual Software Testing Through Interview Questions](https://www.amazon.com/Learn-Manual-Software-Testing-Questions/dp/195442959X/)** – Jimmy Mathew  
    *Notes:* A practical guide to mastering manual software testing concepts, structured around real interview questions to help candidates prepare for testing roles.  
 
+**[JavaScript Testing: Beginner's Guide](https://www.amazon.com/JavaScript-Testing-Beginners-Eugene-Liang/dp/1788623823/)** – Eugene Liang Yuxian  
+   *Notes:* A beginner-friendly guide to JavaScript testing, covering unit testing, integration testing, and practical techniques using popular JavaScript testing frameworks.
+
 ### Testing Series by Gerardus Blokdyk 
 **[System Integration Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/System-Integration-Testing-Complete-Guide/dp/1867416422/)**   
    *Notes:* A structured approach to system integration testing, covering best practices, risk assessment, and implementation strategies.
