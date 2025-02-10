@@ -8,6 +8,7 @@ A list of tech books I've read and planning to read, along with links and my tho
 - [Software Testing](#software-testing)
 - [Software Architecture](#software-architecture)
 - [Cybersecurity](#cybersecurity)
+- [Project Management](#project-management)
 
 ---
 
@@ -83,6 +84,11 @@ A list of tech books I've read and planning to read, along with links and my tho
    *Notes:* A more advanced look into penetration testing, focusing on real-world case studies and exploit development.
 
 ---
+
+
+## Project Management
+**[Agile Project Management with Scrum (4 in 1 Books)](https://www.amazon.com/Agile-Project-Management-Scrum-Books/dp/B08XJ7Y1F3/)** – Alex Campbell  
+   *Notes:* A comprehensive guide to managing projects using Scrum, with strategies for planning, prioritization, and execution.
 
 ## Contributing
 Please, feel free to suggest books that you think I should read next!
