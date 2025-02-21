@@ -73,12 +73,12 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ### API Testing
 
-**[API Testing and Development with Postman](https://www.amazon.com/API-Testing-Development-Postman-practical/dp/1800569203)** – Dave Westerveld  
+✅ **[API Testing and Development with Postman](https://www.amazon.com/API-Testing-Development-Postman-practical/dp/1800569203)** – Dave Westerveld  
    *Notes:* This practical guide covers API testing fundamentals, including request chaining, automation, and CI/CD integration using Postman. It provides step-by-step explanations, practical examples, and self-assessment questions to help you effectively use Postman for API testing and development.
 
 ### Performance Testing
 
-**[Master Apache JMeter: From Load Testing to DevOps](https://www.amazon.com/Master-Apache-JMeter-Testing-performance/dp/1839217642)** – Philippe Mouawad, Antonio Gomes Rodrigues, Bruno Demion (Milamber)  
+✅ **[Master Apache JMeter: From Load Testing to DevOps](https://www.amazon.com/Master-Apache-JMeter-Testing-performance/dp/1839217642)** – Philippe Mouawad, Antonio Gomes Rodrigues, Bruno Demion (Milamber)  
    *Notes:* A practical guide to performance testing using Apache JMeter, covering test planning, scripting, analysis, and DevOps integration. Authored by members of the Apache JMeter team, this book provides insights into preparing test environments, selecting use cases for load testing, and integrating JMeter into Agile and DevOps processes.
 
 ### Game Testing
