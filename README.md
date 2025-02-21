@@ -39,24 +39,25 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[JavaScript Testing: Beginner's Guide](https://www.amazon.com/JavaScript-Testing-Beginners-Yuxian-Eugene/dp/1849510008)** – Eugene Liang Yuxian  
    *Notes:* A beginner-friendly guide to JavaScript testing, covering unit testing, integration testing, and practical techniques using popular JavaScript testing frameworks.
 
-### Testing Series by Gerardus Blokdyk 
-**[System Integration Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/System-Integration-Testing-Complete-Guide/dp/1867416422/)**   
-   *Notes:* A structured approach to system integration testing, covering best practices, risk assessment, and implementation strategies.
+## Testing Series by Gerardus Blokdyk
+**[Black Box Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Black-Box-Testing-Complete-Guide/dp/0655934960)**  
+   *Notes:* This guide delves into black box testing methodologies, providing insights into designing effective test cases without internal code knowledge.
 
-**[Exploratory Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Exploratory-Testing-Complete-Guide/dp/1867465768/)**   
-   *Notes:* Covers exploratory testing techniques and how to apply them effectively in agile environments.
+**[Risk Based Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Risk-Based-Testing-Complete-Guide/dp/1867345757)**  
+   *Notes:* Focuses on prioritizing testing efforts based on risk assessment to optimize resource utilization and enhance software reliability.
 
-**[Integration Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Integration-Testing-Complete-Guide/dp/1867412575/)**   
-   *Notes:* A practical guide on integration testing, focusing on verifying interactions between software components.
+**[Manual Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Manual-Testing-Complete-Guide-2020/dp/1867316293)**  
+   *Notes:* Explores the fundamentals of manual testing, offering strategies and best practices for effective test case design and execution.
 
-**[System Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/System-Testing-Complete-Guide/dp/1867486777/)**    
-   *Notes:* Discusses system-wide testing approaches, test design, and risk-based testing techniques.
+**[Database Testing: Third Edition](https://www.amazon.co.uk/Database-testing-Third-Gerardus-Blokdyk/dp/065519519X)**  
+   *Notes:* Provides a comprehensive overview of database testing techniques, ensuring data integrity and performance through structured testing approaches.
 
-**[Regression Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Regression-Testing-Complete-Guide/dp/1867473441/)**    
-   *Notes:* Covers best practices in regression testing to ensure software stability after changes.
+**[Product Testing: Second Edition](https://www.amazon.com/Product-Testing-Second-Gerardus-Blokdyk/dp/065518452X)**  
+   *Notes:* Discusses various product testing methodologies to ensure quality and compliance with specified requirements.
 
-**[Usability Testing: A Complete Guide – 2021 Edition](https://www.amazon.com/Usability-Testing-Complete-Guide/dp/1867475975/)**   
-   *Notes:* A deep dive into usability testing strategies to improve user experience and accessibility.
+**[Design For Test: A Complete Guide – 2020 Edition](https://www.amazon.com/Design-Test-Complete-Guide-2020/dp/1867329425)**  
+   *Notes:* Covers design for testability principles, aiding in the creation of systems that are easier to test and maintain.
+
 
 ### Test Automation
 **[Ultimate Selenium WebDriver for Test Automation](https://www.amazon.com/Ultimate-Selenium-WebDriver-Automation-Beginners/dp/1952271310/)** – by Robin Gupta  
