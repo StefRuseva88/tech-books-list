@@ -61,12 +61,13 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[Design For Test: A Complete Guide – 2020 Edition](https://www.amazon.com/Design-Test-Complete-Guide-2020/dp/1867329425)**  
    *Notes:* Covers design for testability principles, aiding in the creation of systems that are easier to test and maintain.
    
-### Test Design 
-**[Software Test Design](https://www.amazon.com/Software-Test-Design-Simon-Amey/dp/0367463457/)** – by Simon Amey  
-   *Notes:* Focuses on the methodologies and strategies for designing effective and efficient software tests.
-   
-**[Software Testing Strategies: A Testing Guide for the 2020s](https://www.amazon.com/Software-Testing-Strategies-Testing-2020s/dp/194748729X/)** – by Michael Larsen, Matthew Heusser  
-   *Notes:* A modern approach to software testing strategies, focusing on automation, Agile practices, and the changing role of testers in the 2020s.
+### Test Design
+
+**[Software Test Design: Write Comprehensive Test Plans to Uncover Critical Bugs in Web, Desktop, and Mobile Apps](https://www.amazon.com/Software-Test-Design-comprehensive-critical/dp/1804612561)** – Simon Amey  
+   *Notes:* This guide details best practices for testing software applications and writing comprehensive test plans. It covers exploratory testing, feature specification, various testing methodologies, and how to combine them effectively. :contentReference[oaicite:0]{index=0}
+
+**[Software Testing Strategies: A Testing Guide for the 2020s](https://www.amazon.com/Software-Testing-Strategies-testing-guide/dp/1837638020)** – Michael Larsen, Matthew Heusser  
+   *Notes:* Authored by experts Matt Heusser and Michael Larsen, this book provides valuable strategies for making testing both effective and engaging. It covers a wide range of topics, including accessibility, functional testing, performance testing, and more, helping you craft your own test strategies and explore novel approaches to problem-solving in the testing world. :contentReference[oaicite:1]{index=1}
 
 ### API Testing
 **[API Testing and Development with Postman](https://www.amazon.com/API-Testing-Development-Postman-effectively/dp/1800569205/)** – by Dave Westerveld  
