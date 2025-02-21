@@ -6,6 +6,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ## Categories
 - [Programming](#programming)
 - [Software Testing](#software-testing)
+- [Test Automation](#test-automation)
 - [Software Architecture](#software-architecture)
 - [Cybersecurity](#cybersecurity)
 - [Project Management](#project-management)
@@ -29,6 +30,8 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ### Software University 
 ✅ **[Fundamentals of Computer Programming with C#](https://csharp-book.softuni.bg/)** – Svetlin Nakov & Team  
    *Notes:* A comprehensive guide to C# and fundamental programming concepts, great for beginners and intermediate developers.
+
+---
 
 ## Software Testing
 ### Manual Testing
@@ -57,17 +60,6 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ✅ **[Design For Test: A Complete Guide – 2020 Edition](https://www.amazon.com/Design-Test-Complete-Guide-2020/dp/1867329425)**  
    *Notes:* Covers design for testability principles, aiding in the creation of systems that are easier to test and maintain.
-
-## Test Automation
-
-✅ **[Ultimate Selenium WebDriver for Test Automation](https://www.amazon.com/Ultimate-Selenium-WebDriver-Test-Automation/dp/8196994761)** – Robin Gupta  
-   *Notes:* A comprehensive guide to mastering Selenium WebDriver for automating web applications, covering essential tools and advanced techniques. :contentReference[oaicite:0]{index=0}
-
-✅ **[Test Automation Engineering Handbook](https://www.amazon.com/Test-Automation-Engineering-Handbook-techniques/dp/1804615498)** – Manikandan Sambamurthy  
-   *Notes:* A detailed handbook for becoming proficient in test automation engineering, focusing on strategies, methodologies, and practical techniques. :contentReference[oaicite:1]{index=1}
-
-✅ **[Test Automation Fundamentals: A Study Guide for the Certified Test Automation Engineer Exam - Advanced Level Specialist - ISTQB](https://www.amazon.com/Test-Automation-Fundamentals-Advanced-Specialist/dp/1937538930)** – Richard Seidi, Manfred Baumgartner, Stefan Gwihs, Marc-Florian Wendland, Thomas Steirer, Julian Hartner  
-   *Notes:* A study guide tailored for those preparing for the ISTQB Advanced Level Test Automation Engineer exam, focusing on key concepts, methodologies, and practices in automation testing.
    
 ### Test Design 
 **[Software Test Design](https://www.amazon.com/Software-Test-Design-Simon-Amey/dp/0367463457/)** – by Simon Amey  
@@ -87,7 +79,19 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ### Game Testing
 **[Modern Game Testing](https://www.amazon.com/Modern-Game-Testing-Nikolina-Finska/dp/180323259X/)** – by Nikolina Finska  
    *Notes:* A practical guide to game testing, covering strategies, tools, and methodologies for ensuring high-quality game releases.
-   
+
+---
+
+## Test Automation
+
+✅ **[Ultimate Selenium WebDriver for Test Automation](https://www.amazon.com/Ultimate-Selenium-WebDriver-Test-Automation/dp/8196994761)** – Robin Gupta  
+   *Notes:* A comprehensive guide to mastering Selenium WebDriver for automating web applications, covering essential tools and advanced techniques. :contentReference[oaicite:0]{index=0}
+
+✅ **[Test Automation Engineering Handbook](https://www.amazon.com/Test-Automation-Engineering-Handbook-techniques/dp/1804615498)** – Manikandan Sambamurthy  
+   *Notes:* A detailed handbook for becoming proficient in test automation engineering, focusing on strategies, methodologies, and practical techniques. :contentReference[oaicite:1]{index=1}
+
+✅ **[Test Automation Fundamentals: A Study Guide for the Certified Test Automation Engineer Exam - Advanced Level Specialist - ISTQB](https://www.amazon.com/Test-Automation-Fundamentals-Advanced-Specialist/dp/1937538930)** – Richard Seidi, Manfred Baumgartner, Stefan Gwihs, Marc-Florian Wendland, Thomas Steirer, Julian Hartner  
+   *Notes:* A study guide tailored for those preparing for the ISTQB Advanced Level Test Automation Engineer exam, focusing on key concepts, methodologies, and practices in automation testing.
 ---
 
 ## Software Architecture
