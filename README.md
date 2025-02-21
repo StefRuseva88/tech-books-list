@@ -14,6 +14,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ---
 
 ## Programming
+
 ### Clean Code Series by Robert C. Martin  
 ✅ **[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)**  
    *Notes:* Covers best practices for writing clean, maintainable, and efficient code. A must-read for every developer.
@@ -34,6 +35,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ---
 
 ## Software Testing
+
 ### Manual Testing
 ✅ **[Learn Manual Software Testing Through Interview Questions](https://www.amazon.com/Software-Testing-through-Interview-Questions-ebook/dp/B0BN7TX7TV)** – Jimmy Mathew  
    *Notes:* A practical guide to mastering manual software testing concepts, structured around real interview questions to help candidates prepare for testing roles.
@@ -70,12 +72,14 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* Authored by experts Matt Heusser and Michael Larsen, this book provides valuable strategies for making testing both effective and engaging. It covers a wide range of topics, including accessibility, functional testing, performance testing, and more, helping you craft your own test strategies and explore novel approaches to problem-solving in the testing world. :contentReference[oaicite:1]{index=1}
 
 ### API Testing
-**[API Testing and Development with Postman](https://www.amazon.com/API-Testing-Development-Postman-effectively/dp/1800569205/)** – by Dave Westerveld  
-   *Notes:* Covers API testing fundamentals, request chaining, automation, and CI/CD integration using Postman.
+
+**[API Testing and Development with Postman](https://www.amazon.com/API-Testing-Development-Postman-practical/dp/1800569203)** – Dave Westerveld  
+   *Notes:* This practical guide covers API testing fundamentals, including request chaining, automation, and CI/CD integration using Postman. It provides step-by-step explanations, practical examples, and self-assessment questions to help you effectively use Postman for API testing and development.
 
 ### Performance Testing
-**[Master Apache JMeter: From Load Testing to DevOps](https://www.amazon.com/Master-Apache-JMeter-Testing-DevOps/dp/1838828799/)** – by Philippe Mouawad, Antonio Gomes Rodrigues  
-   *Notes:* A practical guide to performance testing using Apache JMeter, covering test planning, scripting, analysis, and DevOps integration.
+
+**[Master Apache JMeter: From Load Testing to DevOps](https://www.amazon.com/Master-Apache-JMeter-Testing-performance/dp/1839217642)** – Philippe Mouawad, Antonio Gomes Rodrigues, Bruno Demion (Milamber)  
+   *Notes:* A practical guide to performance testing using Apache JMeter, covering test planning, scripting, analysis, and DevOps integration. Authored by members of the Apache JMeter team, this book provides insights into preparing test environments, selecting use cases for load testing, and integrating JMeter into Agile and DevOps processes.
 
 ### Game Testing
 **[Modern Game Testing](https://www.amazon.com/Modern-Game-Testing-Nikolina-Finska/dp/180323259X/)** – by Nikolina Finska  
