@@ -40,22 +40,22 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* A beginner-friendly guide to JavaScript testing, covering unit testing, integration testing, and practical techniques using popular JavaScript testing frameworks.
 
 ## Testing Series by Gerardus Blokdyk
-**[Black Box Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Black-Box-Testing-Complete-Guide/dp/0655934960)**  
+✅ **[Black Box Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Black-Box-Testing-Complete-Guide/dp/0655934960)**  
    *Notes:* This guide delves into black box testing methodologies, providing insights into designing effective test cases without internal code knowledge.
 
-**[Risk Based Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Risk-Based-Testing-Complete-Guide/dp/1867345757)**  
+✅ **[Risk Based Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Risk-Based-Testing-Complete-Guide/dp/1867345757)**  
    *Notes:* Focuses on prioritizing testing efforts based on risk assessment to optimize resource utilization and enhance software reliability.
 
-**[Manual Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Manual-Testing-Complete-Guide-2020/dp/1867316293)**  
+✅ **[Manual Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Manual-Testing-Complete-Guide-2020/dp/1867316293)**  
    *Notes:* Explores the fundamentals of manual testing, offering strategies and best practices for effective test case design and execution.
 
-**[Database Testing: Third Edition](https://www.amazon.co.uk/Database-testing-Third-Gerardus-Blokdyk/dp/065519519X)**  
+✅ **[Database Testing: Third Edition](https://www.amazon.co.uk/Database-testing-Third-Gerardus-Blokdyk/dp/065519519X)**  
    *Notes:* Provides a comprehensive overview of database testing techniques, ensuring data integrity and performance through structured testing approaches.
 
-**[Product Testing: Second Edition](https://www.amazon.com/Product-Testing-Second-Gerardus-Blokdyk/dp/065518452X)**  
+✅ **[Product Testing: Second Edition](https://www.amazon.com/Product-Testing-Second-Gerardus-Blokdyk/dp/065518452X)**  
    *Notes:* Discusses various product testing methodologies to ensure quality and compliance with specified requirements.
 
-**[Design For Test: A Complete Guide – 2020 Edition](https://www.amazon.com/Design-Test-Complete-Guide-2020/dp/1867329425)**  
+✅ **[Design For Test: A Complete Guide – 2020 Edition](https://www.amazon.com/Design-Test-Complete-Guide-2020/dp/1867329425)**  
    *Notes:* Covers design for testability principles, aiding in the creation of systems that are easier to test and maintain.
 
 
