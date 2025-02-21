@@ -88,9 +88,9 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* A comprehensive guide to mastering Selenium WebDriver for automating web applications, covering essential tools and advanced techniques. :contentReference[oaicite:0]{index=0}
 
 ✅ **[Test Automation Engineering Handbook](https://www.amazon.com/Test-Automation-Engineering-Handbook-techniques/dp/1804615498)** – Manikandan Sambamurthy  
-   *Notes:* A detailed handbook for becoming proficient in test automation engineering, focusing on strategies, methodologies, and practical techniques. :contentReference[oaicite:1]{index=1}
+   *Notes:* A detailed handbook for becoming proficient in test automation engineering, focusing on strategies, methodologies, and practical techniques.
 
-✅ **[Test Automation Fundamentals: A Study Guide for the Certified Test Automation Engineer Exam - Advanced Level Specialist - ISTQB](https://www.amazon.com/Test-Automation-Fundamentals-Advanced-Specialist/dp/1937538930)** – Richard Seidi, Manfred Baumgartner, Stefan Gwihs, Marc-Florian Wendland, Thomas Steirer, Julian Hartner  
+✅ **[Test Automation Fundamentals: A Study Guide for the Certified Test Automation Engineer Exam - Advanced Level Specialist - ISTQB](https://www.amazon.com/Test-Automation-Fundamentals-Certified-Specialist/dp/1681989816)** – Richard Seidi, Manfred Baumgartner, Stefan Gwihs, Marc-Florian Wendland, Thomas Steirer, Julian Hartner  
    *Notes:* A study guide tailored for those preparing for the ISTQB Advanced Level Test Automation Engineer exam, focusing on key concepts, methodologies, and practices in automation testing.
    
 ---
