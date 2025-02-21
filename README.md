@@ -38,7 +38,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[Learn Manual Software Testing Through Interview Questions](https://www.amazon.com/Software-Testing-through-Interview-Questions-ebook/dp/B0BN7TX7TV)** – Jimmy Mathew  
    *Notes:* A practical guide to mastering manual software testing concepts, structured around real interview questions to help candidates prepare for testing roles.
 
-### JavaScript Testing
+### Testing JavaScript
 ✅ **[JavaScript Testing: Beginner's Guide](https://www.amazon.com/JavaScript-Testing-Beginners-Yuxian-Eugene/dp/1849510008)** – Eugene Liang Yuxian  
    *Notes:* A beginner-friendly guide to JavaScript testing, covering unit testing, integration testing, and practical techniques using popular JavaScript testing frameworks.
 
