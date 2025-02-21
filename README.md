@@ -39,7 +39,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[JavaScript Testing: Beginner's Guide](https://www.amazon.com/JavaScript-Testing-Beginners-Yuxian-Eugene/dp/1849510008)** – Eugene Liang Yuxian  
    *Notes:* A beginner-friendly guide to JavaScript testing, covering unit testing, integration testing, and practical techniques using popular JavaScript testing frameworks.
 
-## Testing Series by Gerardus Blokdyk
+### Testing Series by Gerardus Blokdyk
 ✅ **[Black Box Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Black-Box-Testing-Complete-Guide/dp/0655934960)**  
    *Notes:* This guide delves into black box testing methodologies, providing insights into designing effective test cases without internal code knowledge.
 
@@ -58,17 +58,16 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[Design For Test: A Complete Guide – 2020 Edition](https://www.amazon.com/Design-Test-Complete-Guide-2020/dp/1867329425)**  
    *Notes:* Covers design for testability principles, aiding in the creation of systems that are easier to test and maintain.
 
+## Test Automation
 
-### Test Automation
-**[Ultimate Selenium WebDriver for Test Automation](https://www.amazon.com/Ultimate-Selenium-WebDriver-Automation-Beginners/dp/1952271310/)** – by Robin Gupta  
-   *Notes:* A comprehensive guide to mastering Selenium WebDriver for automating web applications, covering essential tools and advanced techniques.
+**[Ultimate Selenium WebDriver for Test Automation](https://www.amazon.com/Ultimate-Selenium-WebDriver-Test-Automation/dp/8196994761)** – Robin Gupta  
+   *Notes:* A comprehensive guide to mastering Selenium WebDriver for automating web applications, covering essential tools and advanced techniques. :contentReference[oaicite:0]{index=0}
 
-**[Test Automation Engineering Handbook](https://www.amazon.com/Test-Automation-Engineering-Handbook-Sambamurthy/dp/183898173X/)** – by Manikandan Sambamurthy  
-   *Notes:* A detailed handbook for becoming proficient in test automation engineering, focusing on strategies, methodologies, and practical techniques.
+**[Test Automation Engineering Handbook](https://www.amazon.com/Test-Automation-Engineering-Handbook-techniques/dp/1804615498)** – Manikandan Sambamurthy  
+   *Notes:* A detailed handbook for becoming proficient in test automation engineering, focusing on strategies, methodologies, and practical techniques. :contentReference[oaicite:1]{index=1}
 
-**[Test Automation Fundamentals: A Study Guide for the Certified Test Automation Engineer Exam - Advanced Level Specialist - ISTQB](https://www.amazon.com/Test-Automation-Fundamentals-Engineer-Specialist/dp/1947487684/)** – by Richard Seidi, Manfred Baumgartner, Stefan Gwihs, Marc-Florian Wendland, Thomas Steirer, Julian Hartner  
+**[Test Automation Fundamentals: A Study Guide for the Certified Test Automation Engineer Exam - Advanced Level Specialist - ISTQB](https://www.amazon.com/Test-Automation-Fundamentals-Advanced-Specialist/dp/1937538930)** – Richard Seidi, Manfred Baumgartner, Stefan Gwihs, Marc-Florian Wendland, Thomas Steirer, Julian Hartner  
    *Notes:* A study guide tailored for those preparing for the ISTQB Advanced Level Test Automation Engineer exam, focusing on key concepts, methodologies, and practices in automation testing.
-   
    
 ### Test Design 
 **[Software Test Design](https://www.amazon.com/Software-Test-Design-Simon-Amey/dp/0367463457/)** – by Simon Amey  
