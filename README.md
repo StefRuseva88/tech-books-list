@@ -85,8 +85,8 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[Modern Game Testing](https://www.amazon.com/Modern-Game-Testing-professionally-skyrocket/dp/1803244402)** – by Nikolina Finska  
    *Notes:* A practical guide to game testing, covering strategies, tools, and methodologies for ensuring high-quality game releases.
 
-## AI-Assisted Testing
-**[Software Testing with Generative AI](https://www.amazon.com/Software-Testing-Generative-Mark-Winteringham/dp/1633437361)** – Mark Winteringham  
+### AI-Assisted Testing
+✅ **[Software Testing with Generative AI](https://www.amazon.com/Software-Testing-Generative-Mark-Winteringham/dp/1633437361)** – Mark Winteringham  
    *Notes:* This comprehensive guide explores how to enhance software testing using Large Language Models (LLMs) and generative AI. It covers topics such as AI-assisted test automation, synthetic data generation, and integrating AI into exploratory testing. The book provides practical strategies to improve test quality and efficiency, making it a valuable resource for developers, testers, and quality engineers.
 
 ---
