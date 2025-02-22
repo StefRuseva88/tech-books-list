@@ -64,7 +64,6 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* Covers design for testability principles, aiding in the creation of systems that are easier to test and maintain.
    
 ### Test Design
-
 ✅ **[Software Test Design: Write Comprehensive Test Plans to Uncover Critical Bugs in Web, Desktop, and Mobile Apps](https://www.amazon.com/Software-Test-Design-comprehensive-critical/dp/1804612561)** – Simon Amey  
    *Notes:* This guide details best practices for testing software applications and writing comprehensive test plans. It covers exploratory testing, feature specification, various testing methodologies, and how to combine them effectively.
 
@@ -72,12 +71,10 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* Authored by experts Matt Heusser and Michael Larsen, this book provides valuable strategies for making testing both effective and engaging. It covers a wide range of topics, including accessibility, functional testing, performance testing, and more, helping you craft your own test strategies and explore novel approaches to problem-solving in the testing world.
 
 ### API Testing
-
 ✅ **[API Testing and Development with Postman](https://www.amazon.com/API-Testing-Development-Postman-practical/dp/1800569203)** – Dave Westerveld  
    *Notes:* This practical guide covers API testing fundamentals, including request chaining, automation, and CI/CD integration using Postman. It provides step-by-step explanations, practical examples, and self-assessment questions to help you effectively use Postman for API testing and development.
 
 ### Performance Testing
-
 ✅ **[Master Apache JMeter: From Load Testing to DevOps](https://www.amazon.com/Master-Apache-JMeter-Testing-performance/dp/1839217642)** – Philippe Mouawad, Antonio Gomes Rodrigues, Bruno Demion (Milamber)  
    *Notes:* A practical guide to performance testing using Apache JMeter, covering test planning, scripting, analysis, and DevOps integration. Authored by members of the Apache JMeter team, this book provides insights into preparing test environments, selecting use cases for load testing, and integrating JMeter into Agile and DevOps processes.
 
@@ -105,8 +102,9 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ---
 
 ## Software Architecture
-**[97 Things Every Software Architect Should Know](https://www.oreilly.com/library/view/97-things-every/9780596522698/)** – by Richard Monson-Haefel (Editor)  
-   *Notes:* A collection of valuable insights from experienced software architects on designing scalable and maintainable systems.
+
+1. **[97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)** – Edited by Richard Monson-Haefel  
+   *Notes:* This insightful collection compiles 97 concise essays from over four dozen experienced software architects, including Neal Ford, Michael Nygard, and Bill de hOra. The book offers practical advice on key development issues that extend beyond technology, such as effective communication with stakeholders, reducing complexity, and empowering developers. Notable principles include:
 
 ---
 
