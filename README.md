@@ -109,14 +109,14 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ---
 
 ## Cybersecurity
-**[Penetration Testing Guide 1](https://www.amazon.com/Penetration-Testing-Guide-Devi-Prasad/dp/B08XYZABC1/)** – by Devi Prasad  
-   *Notes:* Covers fundamental concepts and techniques for penetration testing, including network security assessment.
 
-**[Penetration Testing Guide 2](https://www.amazon.com/Penetration-Testing-Guide-Devi-Prasad/dp/B08XYZABC2/)** – by Devi Prasad  
-   *Notes:* A more advanced look into penetration testing, focusing on real-world case studies and exploit development.
+**[Penetration Testing Fundamentals -1: Penetration Testing Study Guide To Breaking Into Systems](https://www.amazon.in/Penetration-Testing-Fundamentals-1-Breaking-ebook/dp/B0CP9QMZCX)** – Devi Prasad  
+   *Notes:* This comprehensive guide navigates readers through the intricate world of penetration testing, covering topics from network reconnaissance to exploiting weaknesses and implementing robust defenses. It's designed for both seasoned cybersecurity professionals and aspiring ethical hackers, providing hands-on techniques, cutting-edge tools, and real-world scenarios to identify and eliminate security vulnerabilities. :contentReference[oaicite:0]{index=0}
+
+**[Penetration Testing Fundamentals-2: Penetration Testing Study Guide To Breaking Into Systems](https://www.barnesandnoble.com/w/penetration-testing-fundamentals-2-devi-prasad/1144458865)** – Devi Prasad  
+   *Notes:* Building upon the foundational concepts from the first volume, this advanced guide delves deeper into penetration testing. It focuses on real-world case studies and exploit development, offering readers insights into the mindset of a hacker to understand system vulnerabilities better. The book aims to empower readers to become vigilant defenders of digital landscapes by providing practical strategies and tools. :contentReference[oaicite:1]{index=1}
 
 ---
-
 
 ## Project Management
 **[Agile Project Management with Scrum (4 in 1 Books)](https://www.amazon.com/Agile-Project-Management-Scrum-Books/dp/B08XJ7Y1F3/)** – by Alex Campbell  
