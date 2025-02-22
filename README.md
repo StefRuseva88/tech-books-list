@@ -82,7 +82,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* A practical guide to performance testing using Apache JMeter, covering test planning, scripting, analysis, and DevOps integration. Authored by members of the Apache JMeter team, this book provides insights into preparing test environments, selecting use cases for load testing, and integrating JMeter into Agile and DevOps processes.
 
 ### Game Testing
-**[Modern Game Testing](https://www.amazon.com/Modern-Game-Testing-professionally-skyrocket/dp/1803244402)** – by Nikolina Finska  
+✅ **[Modern Game Testing](https://www.amazon.com/Modern-Game-Testing-professionally-skyrocket/dp/1803244402)** – by Nikolina Finska  
    *Notes:* A practical guide to game testing, covering strategies, tools, and methodologies for ensuring high-quality game releases.
 
 ---
