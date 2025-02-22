@@ -118,15 +118,12 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ---
 
----
-
 ## Project Management
 
-**[Agile Project Management with Scrum: Ultimate Complete Guide to Agile Project Management with Scrum (4 in 1 Books)](https://www.amazon.com/Agile-Project-Management-Scrum-Ultimate/dp/B0BPVD6J5W)** – Alex Campbell  
+✅ **[Agile Project Management with Scrum: Ultimate Complete Guide to Agile Project Management with Scrum (4 in 1 Books)](https://www.amazon.com/Agile-Project-Management-Scrum-Ultimate/dp/B0BPVD6J5W)** – Alex Campbell  
    *Notes:* This comprehensive guide delves into Agile project management using the Scrum framework. It covers essential topics such as the science behind Scrum, managing Agile projects, the role of the ScrumMaster, planning Scrum projects, and mastering DSDM techniques. The book aims to equip project managers with the skills to create effective workflows, enhance team productivity, and implement Agile methodologies successfully.
 
 ---
-
 
 ## Contributing
 Please, feel free to suggest books that you think I should read next!
