@@ -110,10 +110,10 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ## Cybersecurity
 
-**[Penetration Testing Fundamentals -1: Penetration Testing Study Guide To Breaking Into Systems](https://www.amazon.in/Penetration-Testing-Fundamentals-1-Breaking-ebook/dp/B0CP9QMZCX)** – Devi Prasad  
+✅ **[Penetration Testing Fundamentals -1: Penetration Testing Study Guide To Breaking Into Systems](https://www.amazon.in/Penetration-Testing-Fundamentals-1-Breaking-ebook/dp/B0CP9QMZCX)** – Devi Prasad  
    *Notes:* This comprehensive guide navigates readers through the intricate world of penetration testing, covering topics from network reconnaissance to exploiting weaknesses and implementing robust defenses. It's designed for both seasoned cybersecurity professionals and aspiring ethical hackers, providing hands-on techniques, cutting-edge tools, and real-world scenarios to identify and eliminate security vulnerabilities. :contentReference[oaicite:0]{index=0}
 
-**[Penetration Testing Fundamentals-2: Penetration Testing Study Guide To Breaking Into Systems](https://www.barnesandnoble.com/w/penetration-testing-fundamentals-2-devi-prasad/1144458865)** – Devi Prasad  
+✅ **[Penetration Testing Fundamentals-2: Penetration Testing Study Guide To Breaking Into Systems](https://www.barnesandnoble.com/w/penetration-testing-fundamentals-2-devi-prasad/1144458865)** – Devi Prasad  
    *Notes:* Building upon the foundational concepts from the first volume, this advanced guide delves deeper into penetration testing. It focuses on real-world case studies and exploit development, offering readers insights into the mindset of a hacker to understand system vulnerabilities better. The book aims to empower readers to become vigilant defenders of digital landscapes by providing practical strategies and tools. :contentReference[oaicite:1]{index=1}
 
 ---
