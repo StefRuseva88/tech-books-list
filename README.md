@@ -104,23 +104,29 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ## Software Architecture
 
 ✅ **[97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)** – Edited by Richard Monson-Haefel  
-   *Notes:* This insightful collection compiles 97 concise essays from over four dozen experienced software architects, including Neal Ford, Michael Nygard, and Bill de hOra. The book offers practical advice on key development issues that extend beyond technology, such as effective communication with stakeholders, reducing complexity, and empowering developers. Notable principles include:
+   *Notes:* This insightful collection compiles 97 concise essays from over four dozen experienced software architects, including Neal Ford, Michael Nygard, and Bill de hOra. The book offers practical advice on key development issues that extend beyond technology, such as effective communication with stakeholders, reducing complexity, and empowering developers.
 
 ---
 
 ## Cybersecurity
 
 ✅ **[Penetration Testing Fundamentals -1: Penetration Testing Study Guide To Breaking Into Systems](https://www.amazon.in/Penetration-Testing-Fundamentals-1-Breaking-ebook/dp/B0CP9QMZCX)** – Devi Prasad  
-   *Notes:* This comprehensive guide navigates readers through the intricate world of penetration testing, covering topics from network reconnaissance to exploiting weaknesses and implementing robust defenses. It's designed for both seasoned cybersecurity professionals and aspiring ethical hackers, providing hands-on techniques, cutting-edge tools, and real-world scenarios to identify and eliminate security vulnerabilities. :contentReference[oaicite:0]{index=0}
+   *Notes:* This comprehensive guide navigates readers through the intricate world of penetration testing, covering topics from network reconnaissance to exploiting weaknesses and implementing robust defenses. It's designed for both seasoned cybersecurity professionals and aspiring ethical hackers, providing hands-on techniques, cutting-edge tools, and real-world scenarios to identify and eliminate security vulnerabilities.
 
 ✅ **[Penetration Testing Fundamentals-2: Penetration Testing Study Guide To Breaking Into Systems](https://www.barnesandnoble.com/w/penetration-testing-fundamentals-2-devi-prasad/1144458865)** – Devi Prasad  
-   *Notes:* Building upon the foundational concepts from the first volume, this advanced guide delves deeper into penetration testing. It focuses on real-world case studies and exploit development, offering readers insights into the mindset of a hacker to understand system vulnerabilities better. The book aims to empower readers to become vigilant defenders of digital landscapes by providing practical strategies and tools. :contentReference[oaicite:1]{index=1}
+   *Notes:* Building upon the foundational concepts from the first volume, this advanced guide delves deeper into penetration testing. It focuses on real-world case studies and exploit development, offering readers insights into the mindset of a hacker to understand system vulnerabilities better. The book aims to empower readers to become vigilant defenders of digital landscapes by providing practical strategies and tools.
+
+---
 
 ---
 
 ## Project Management
-**[Agile Project Management with Scrum (4 in 1 Books)](https://www.amazon.com/Agile-Project-Management-Scrum-Books/dp/B08XJ7Y1F3/)** – by Alex Campbell  
-   *Notes:* A comprehensive guide to managing projects using Scrum, with strategies for planning, prioritization, and execution.
+
+**[Agile Project Management with Scrum: Ultimate Complete Guide to Agile Project Management with Scrum (4 in 1 Books)](https://www.amazon.com/Agile-Project-Management-Scrum-Ultimate/dp/B0BPVD6J5W)** – Alex Campbell  
+   *Notes:* This comprehensive guide delves into Agile project management using the Scrum framework. It covers essential topics such as the science behind Scrum, managing Agile projects, the role of the ScrumMaster, planning Scrum projects, and mastering DSDM techniques. The book aims to equip project managers with the skills to create effective workflows, enhance team productivity, and implement Agile methodologies successfully.
+
+---
+
 
 ## Contributing
 Please, feel free to suggest books that you think I should read next!
