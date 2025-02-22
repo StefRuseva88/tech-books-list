@@ -103,7 +103,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ## Software Architecture
 
-1. **[97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)** – Edited by Richard Monson-Haefel  
+✅ **[97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)** – Edited by Richard Monson-Haefel  
    *Notes:* This insightful collection compiles 97 concise essays from over four dozen experienced software architects, including Neal Ford, Michael Nygard, and Bill de hOra. The book offers practical advice on key development issues that extend beyond technology, such as effective communication with stakeholders, reducing complexity, and empowering developers. Notable principles include:
 
 ---
