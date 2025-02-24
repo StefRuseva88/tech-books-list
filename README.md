@@ -7,6 +7,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 - [Programming](#programming)
 - [Software Testing](#software-testing)
 - [Test Automation](#test-automation)
+- [Databases](#databases)
 - [Software Architecture](#software-architecture)
 - [Cybersecurity](#cybersecurity)
 - [Project Management](#project-management)
