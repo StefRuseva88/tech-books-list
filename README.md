@@ -155,6 +155,9 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[Penetration Testing Fundamentals-2: Penetration Testing Study Guide To Breaking Into Systems](https://www.barnesandnoble.com/w/penetration-testing-fundamentals-2-devi-prasad/1144458865)** – Devi Prasad  
    *Notes:* Building upon the foundational concepts from the first volume, this advanced guide delves deeper into penetration testing. It focuses on real-world case studies and exploit development, offering readers insights into the mindset of a hacker to understand system vulnerabilities better. The book aims to empower readers to become vigilant defenders of digital landscapes by providing practical strategies and tools.
 
+**[Mobile Device Exploitation Cookbook](https://www.amazon.com/Mobile-Device-Exploitation-Cookbook-Akshay/dp/1787284672)** – Akshay Dixit, Prashant Verma  
+   *Notes:* This cookbook provides practical recipes for exploiting and securing mobile devices, offering insights into various tools and techniques used in mobile device penetration testing and security assessments.
+
 ---
 
 ## Project Management
