@@ -105,14 +105,14 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ## Databases
 
-**[SQL: 3 Books in 1 – Learn SQL Basics for Beginners + Build Complex SQL Queries + Advanced SQL Query Optimization Techniques](https://www.amazon.com/SQL-beginners-Advanced-optimization-techniques-ebook/dp/B0999LH4P4)** – Andy Vickler  
+✅ **[SQL: 3 Books in 1 – Learn SQL Basics for Beginners + Build Complex SQL Queries + Advanced SQL Query Optimization Techniques](https://www.amazon.com/SQL-beginners-Advanced-optimization-techniques-ebook/dp/B0999LH4P4)** – Andy Vickler  
    *Notes:* This comprehensive guide covers SQL fundamentals, complex query building, and advanced optimization techniques, providing readers with a solid foundation in database management and manipulation.
 
 ---
 
 ## Linux
 
-**[Linux: 3 Books in 1 – Linux for Beginners + Linux Command Lines and Shell Scripting + Linux Security and Administration](https://www.amazon.com/Linux-Beginners-Scripting-Security-Administration-ebook/dp/B08ZS93LCS)** – Andy Vickler  
+✅ **[Linux: 3 Books in 1 – Linux for Beginners + Linux Command Lines and Shell Scripting + Linux Security and Administration](https://www.amazon.com/Linux-Beginners-Scripting-Security-Administration-ebook/dp/B08ZS93LCS)** – Andy Vickler  
    *Notes:* This trilogy offers an in-depth exploration of Linux, from basic commands and shell scripting to advanced security measures and system administration, making it an essential resource for aspiring Linux professionals.
 
 ---
