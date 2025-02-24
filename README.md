@@ -9,6 +9,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 - [Test Automation](#test-automation)
 - [Databases](#databases)
 - [Linux](#linux)
+- [Cloud](#cloud)
 - [Software Architecture](#software-architecture)
 - [Cybersecurity](#cybersecurity)
 - [Project Management](#project-management)
@@ -126,7 +127,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ## Cloud Computing
 
-**[The Cloud Computing Revolution: From Virtualization to Automation: Unveiling the Cloud Computing Revolution](https://www.amazon.com/Cloud-Computing-Revolution-Virtualization-Automation/dp/B0DGB8VYZR)** – Lisa Carter  
+✅ **[The Cloud Computing Revolution: From Virtualization to Automation: Unveiling the Cloud Computing Revolution](https://www.amazon.com/Cloud-Computing-Revolution-Virtualization-Automation/dp/B0DGB8VYZR)** – Lisa Carter  
    *Notes:* This comprehensive book explores the evolution of cloud computing from its early days of virtualization to the current era of automation. It delves into core cloud service models—SaaS, PaaS, and IaaS—and examines emerging paradigms such as edge computing, AI integration, and serverless architectures. The author provides insights into cloud adoption strategies, including migration techniques, optimization, and governance, making it a valuable resource for understanding the transformative impact of cloud technology.
 
 ---
