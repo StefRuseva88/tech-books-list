@@ -8,6 +8,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 - [Software Testing](#software-testing)
 - [Test Automation](#test-automation)
 - [Databases](#databases)
+- [Linux](#linux)
 - [Software Architecture](#software-architecture)
 - [Cybersecurity](#cybersecurity)
 - [Project Management](#project-management)
@@ -109,7 +110,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ---
 
-## Operating Systems
+## Linux
 
 **[Linux: 3 Books in 1 – Linux for Beginners + Linux Command Lines and Shell Scripting + Linux Security and Administration](https://www.amazon.com/Linux-Beginners-Scripting-Security-Administration-ebook/dp/B08ZS93LCS)** – Andy Vickler  
    *Notes:* This trilogy offers an in-depth exploration of Linux, from basic commands and shell scripting to advanced security measures and system administration, making it an essential resource for aspiring Linux professionals.
