@@ -9,7 +9,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 - [Test Automation](#test-automation)
 - [Databases](#databases)
 - [Linux](#linux)
-- [Cloud](#cloud)
+- [Cloud Computing](#cloud-computing)
 - [Software Architecture](#software-architecture)
 - [Cybersecurity](#cybersecurity)
 - [Project Management](#project-management)
