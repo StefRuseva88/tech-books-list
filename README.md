@@ -106,7 +106,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ### Mobile Automation
 
-**[Appium Essentials: Explore Mobile Automation with Appium and Discover New Ways to Test Native, Web, and Hybrid Applications](https://www.amazon.com/Appium-Essentials-Manoj-Hans/dp/1784392480)** – Manoj Hans  
+✅ **[Appium Essentials: Explore Mobile Automation with Appium and Discover New Ways to Test Native, Web, and Hybrid Applications](https://www.amazon.com/Appium-Essentials-Manoj-Hans/dp/1784392480)** – Manoj Hans  
    *Notes:* This practical guide delves into using Appium for automating mobile applications across various platforms. Ideal for automation testers and developers aiming to enhance their skills in mobile application automation. It covers:
 
    - **Appium Drivers:** Utilizing Appium drivers to automate native, web-based, and hybrid apps.
@@ -116,8 +116,6 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    - **Mobile Gestures:** Automating gestures like tap, zoom, and swipe.
 
    - **Cross-Platform Testing:** Writing scripts that work on both Android and iOS platforms.
-
-   Ideal for automation testers and developers aiming to enhance their skills in mobile application automation.
 
 ---
 
