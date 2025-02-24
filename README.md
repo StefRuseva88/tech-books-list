@@ -102,8 +102,6 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[Test Automation Fundamentals: A Study Guide for the Certified Test Automation Engineer Exam - Advanced Level Specialist - ISTQB](https://www.amazon.com/Test-Automation-Fundamentals-Certified-Specialist/dp/1681989816)** – Richard Seidi, Manfred Baumgartner, Stefan Gwihs, Marc-Florian Wendland, Thomas Steirer, Julian Hartner  
    *Notes:* A study guide tailored for those preparing for the ISTQB Advanced Level Test Automation Engineer exam, focusing on key concepts, methodologies, and practices in automation testing.
 
-   ---
-
 ### Mobile Automation
 
 ✅ **[Appium Essentials: Explore Mobile Automation with Appium and Discover New Ways to Test Native, Web, and Hybrid Applications](https://www.amazon.com/Appium-Essentials-Manoj-Hans/dp/1784392480)** – Manoj Hans  
