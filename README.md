@@ -43,7 +43,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[Learn Manual Software Testing Through Interview Questions](https://www.amazon.com/Software-Testing-through-Interview-Questions-ebook/dp/B0BN7TX7TV)** – Jimmy Mathew  
    *Notes:* A practical guide to mastering manual software testing concepts, structured around real interview questions to help candidates prepare for testing roles.
 ### Context-Driven Approach
-✅ **[Lessons Learned in Software Testing](href="https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124")** – Cem Kaner, James Bach, Bret Pettichord  
+✅ **[Lessons Learned in Software Testing](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)** – Cem Kaner, James Bach, Bret Pettichord  
    *Notes:* Insights from experienced testers sharing practical lessons, common pitfalls, and strategies to improve testing effectiveness.
    
 ### Testing JavaScript
