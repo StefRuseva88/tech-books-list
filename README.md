@@ -180,7 +180,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ## Soft Skills
 
 ✅ **[Coders at Work: Reflections on the Craft of Programming 1st Edition](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)** - Peter Seibel
-    *Notes:* This is a who's who in the programming world - a fascinating look at how some of the best in the world do their work.
+> *Notes:* This is a who's who in the programming world - a fascinating look at how some of the best in the world do their work.
 
 ---
 
