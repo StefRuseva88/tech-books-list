@@ -131,7 +131,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ## Software Architecture
 
-✅ **[97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)** – Edited by Richard Monson-Haefel  
+✅ **[97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)** – Richard Monson-Haefel  
    *Notes:* This insightful collection compiles 97 concise essays from over four dozen experienced software architects, including Neal Ford, Michael Nygard, and Bill de hOra. The book offers practical advice on key development issues that extend beyond technology, such as effective communication with stakeholders, reducing complexity, and empowering developers.
 
 ---
@@ -160,6 +160,11 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ✅ **[Agile Project Management with Scrum: Ultimate Complete Guide to Agile Project Management with Scrum (4 in 1 Books)](https://www.amazon.com/Agile-Project-Management-Scrum-Ultimate/dp/B0BPVD6J5W)** – Alex Campbell  
    *Notes:* This comprehensive guide delves into Agile project management using the Scrum framework. It covers essential topics such as the science behind Scrum, managing Agile projects, the role of the ScrumMaster, planning Scrum projects, and mastering DSDM techniques. The book aims to equip project managers with the skills to create effective workflows, enhance team productivity, and implement Agile methodologies successfully.
+
+## Soft Skills
+
+✅ **[Coders at Work: Reflections on the Craft of Programming 1st Edition](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)** - Peter Seibel
+*Notes:* This is a who's who in the programming world - a fascinating look at how some of the best in the world do their work.
 
 ---
 
