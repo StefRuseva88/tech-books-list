@@ -43,14 +43,14 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ✅ **[Learn Manual Software Testing Through Interview Questions](https://www.amazon.com/Software-Testing-through-Interview-Questions-ebook/dp/B0BN7TX7TV)** – Jimmy Mathew  
    *Notes:* A practical guide to mastering manual software testing concepts, structured around real interview questions to help candidates prepare for testing roles.
 
-✅ **[Lessons Learned in Software Testing - Context-Driven Approach](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)** – Cem Kaner, James Bach, Bret Pettichord  
+✅ **[Lessons Learned in Software Testing - Context-Driven Approach](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)** – (recommended) Cem Kaner, James Bach, Bret Pettichord  
    *Notes:* Insights from experienced testers sharing practical lessons, common pitfalls, and strategies to improve testing effectiveness.
 
 ✅ **[Software Testing: A Craftsman’s Approach (Fifth Edition)](https://www.amazon.com/Software-Testing-Craftsmans-Approach-Fifth-dp-0367767627/dp/0367767627/ref=dp_ob_title_bk)** – (recommended) Paul C. Jorgensen, Byron DeVries   
    *Notes:* A deep dive into software testing principles with a structured and mathematical approach, covering test design techniques and strategies.
    
 ### Testing JavaScript
-✅ **[JavaScript Testing: Beginner's Guide](https://www.amazon.com/JavaScript-Testing-Beginners-Yuxian-Eugene/dp/1849510008)** – (recommended) Eugene Liang Yuxian  
+✅ **[JavaScript Testing: Beginner's Guide](https://www.amazon.com/JavaScript-Testing-Beginners-Yuxian-Eugene/dp/1849510008)** – Eugene Liang Yuxian  
    *Notes:* A beginner-friendly guide to JavaScript testing, covering unit testing, integration testing, and practical techniques using popular JavaScript testing frameworks.
 
 ### Testing Series by Gerardus Blokdyk
