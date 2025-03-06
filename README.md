@@ -18,7 +18,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 
 ## Programming
 
-### Clean Code Series by Robert C. Martin  
+### Clean Code Series by Robert C. Martin (recommended)
 ✅ **[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)**  
    *Notes:* Covers best practices for writing clean, maintainable, and efficient code. A must-read for every developer.
    
