@@ -13,6 +13,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 - [Software Architecture](#software-architecture)
 - [Cybersecurity](#cybersecurity)
 - [Project Management](#project-management)
+- [Soft Skills](#soft-skills)
 
 ---
 
