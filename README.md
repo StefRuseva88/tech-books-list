@@ -149,7 +149,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ---
 ## Version Control
 
-✅ **[Ultimate Git and GitHub for Modern Software Development: Unlock the Power of Version Control](https://www.amazon.com/Ultimate-GitHub-Modern-Software-Development/dp/8197223831) - Pravin Mishra
+✅ **[Ultimate Git and GitHub for Modern Software Development: Unlock the Power of Version Control](https://www.amazon.com/Ultimate-GitHub-Modern-Software-Development/dp/8197223831)** - Pravin Mishra
 *Notes:* This is a comprehensive guide that empowers developers to harness the full potential of Git and GitHub for efficient version control and seamless collaboration. This book takes you on a journey through the fundamentals of Git, exploring its commands, branching strategies, and conflict resolution techniques
 
 ## Cloud Computing
