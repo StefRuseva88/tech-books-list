@@ -9,6 +9,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 - [Test Automation](#test-automation)
 - [Databases](#databases)
 - [Operating Systems](#operating-systems)
+- [Version Control](#version-control)
 - [Cloud Computing](#cloud-computing)
 - [Software Architecture](#software-architecture)
 - [Cybersecurity](#cybersecurity)
@@ -20,6 +21,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ## Programming
 
 ### Clean Code Series by Robert C. Martin (recommended)
+
 ✅ **[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)**  
    *Notes:* Covers best practices for writing clean, maintainable, and efficient code. A must-read for every developer.
    
@@ -33,6 +35,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* Explains Agile principles and practices, including their original intent and how to apply them effectively.
 
 ### Software University 
+
 ✅ **[Fundamentals of Computer Programming with C#](https://csharp-book.softuni.bg/)** – Svetlin Nakov & Team  
    *Notes:* A comprehensive guide to C# and fundamental programming concepts, great for beginners and intermediate developers.
 
@@ -41,6 +44,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
 ## Software Testing
 
 ### Manual Testing
+
 ✅ **[Learn Manual Software Testing Through Interview Questions](https://www.amazon.com/Software-Testing-through-Interview-Questions-ebook/dp/B0BN7TX7TV)** – Jimmy Mathew  
    *Notes:* A practical guide to mastering manual software testing concepts, structured around real interview questions to help candidates prepare for testing roles.
 
@@ -51,10 +55,12 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* A deep dive into software testing principles with a structured and mathematical approach, covering test design techniques and strategies.
    
 ### Testing JavaScript
+
 ✅ **[JavaScript Testing: Beginner's Guide](https://www.amazon.com/JavaScript-Testing-Beginners-Yuxian-Eugene/dp/1849510008)** – Eugene Liang Yuxian  
    *Notes:* A beginner-friendly guide to JavaScript testing, covering unit testing, integration testing, and practical techniques using popular JavaScript testing frameworks.
 
 ### Testing Series by Gerardus Blokdyk
+
 ✅ **[Black Box Testing: A Complete Guide – 2020 Edition](https://www.amazon.com/Black-Box-Testing-Complete-Guide/dp/0655934960)**  
    *Notes:* This guide delves into black box testing methodologies, providing insights into designing effective test cases without internal code knowledge.
 
@@ -74,6 +80,7 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* Covers design for testability principles, aiding in the creation of systems that are easier to test and maintain.
    
 ### Test Design
+
 ✅ **[Software Test Design: Write Comprehensive Test Plans to Uncover Critical Bugs in Web, Desktop, and Mobile Apps](https://www.amazon.com/Software-Test-Design-comprehensive-critical/dp/1804612561)** – Simon Amey  
    *Notes:* This guide details best practices for testing software applications and writing comprehensive test plans. It covers exploratory testing, feature specification, various testing methodologies, and how to combine them effectively.
 
@@ -81,18 +88,22 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* Authored by experts Matt Heusser and Michael Larsen, this book provides valuable strategies for making testing both effective and engaging. It covers a wide range of topics, including accessibility, functional testing, performance testing, and more, helping you craft your own test strategies and explore novel approaches to problem-solving in the testing world.
 
 ### API Testing
+
 ✅ **[API Testing and Development with Postman](https://www.amazon.com/API-Testing-Development-Postman-practical/dp/1800569203)** – Dave Westerveld  
    *Notes:* This practical guide covers API testing fundamentals, including request chaining, automation, and CI/CD integration using Postman. It provides step-by-step explanations, practical examples, and self-assessment questions to help you effectively use Postman for API testing and development.
 
 ### Performance Testing
+
 ✅ **[Master Apache JMeter: From Load Testing to DevOps](https://www.amazon.com/Master-Apache-JMeter-Testing-performance/dp/1839217642)** – Philippe Mouawad, Antonio Gomes Rodrigues, Bruno Demion (Milamber)  
    *Notes:* A practical guide to performance testing using Apache JMeter, covering test planning, scripting, analysis, and DevOps integration. Authored by members of the Apache JMeter team, this book provides insights into preparing test environments, selecting use cases for load testing, and integrating JMeter into Agile and DevOps processes.
 
 ### Game Testing
+
 ✅ **[Modern Game Testing](https://www.amazon.com/Modern-Game-Testing-professionally-skyrocket/dp/1803244402)** – by Nikolina Finska  
    *Notes:* A practical guide to game testing, covering strategies, tools, and methodologies for ensuring high-quality game releases.
 
 ### AI-Assisted Testing
+
 ✅ **[Software Testing with Generative AI](https://www.amazon.com/Software-Testing-Generative-Mark-Winteringham/dp/1633437361)** – Mark Winteringham  
    *Notes:* This comprehensive guide explores how to enhance software testing using Large Language Models (LLMs) and generative AI. It covers topics such as AI-assisted test automation, synthetic data generation, and integrating AI into exploratory testing. The book provides practical strategies to improve test quality and efficiency, making it a valuable resource for developers, testers, and quality engineers.
 
@@ -136,6 +147,10 @@ A list of tech books which I find inspiring, along with links and my thoughts.
    *Notes:* This insightful collection compiles 97 concise essays from over four dozen experienced software architects, including Neal Ford, Michael Nygard, and Bill de hOra. The book offers practical advice on key development issues that extend beyond technology, such as effective communication with stakeholders, reducing complexity, and empowering developers.
 
 ---
+## Version Control
+
+✅ **[Ultimate Git and GitHub for Modern Software Development: Unlock the Power of Version Control](https://www.amazon.com/Ultimate-GitHub-Modern-Software-Development/dp/8197223831) - Pravin Mishra
+*Notes:* This is a comprehensive guide that empowers developers to harness the full potential of Git and GitHub for efficient version control and seamless collaboration. This book takes you on a journey through the fundamentals of Git, exploring its commands, branching strategies, and conflict resolution techniques
 
 ## Cloud Computing
 
